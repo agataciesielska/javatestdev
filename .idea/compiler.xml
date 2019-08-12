@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="5Lesson - EnumTask" />
-        <module name="4Lesson - Shape" />
-        <module name="3Lesson - ArrayTask" />
         <module name="1Lesson - OfferCodeResolver" />
         <module name="2Lesson - CircleAndRectangle" />
+        <module name="3Lesson - ArrayTask" />
+        <module name="4Lesson - Shape" />
+        <module name="5Lesson - EnumTask" />
+        <module name="ArrayTask" />
+        <module name="CircleAndRectangle" />
+        <module name="enumPractise" />
+        <module name="Shape" />
       </profile>
     </annotationProcessing>
   </component>

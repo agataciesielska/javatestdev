@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayAndMap/2Lesson - ArrayAndMap.iml" filepath="$PROJECT_DIR$/ArrayAndMap/2Lesson - ArrayAndMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumTask2/EnumTask2.iml" filepath="$PROJECT_DIR$/EnumTask2/EnumTask2.iml" />
     </modules>
   </component>
 </project>
